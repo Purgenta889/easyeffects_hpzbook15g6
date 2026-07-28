@@ -6,4 +6,4 @@ While the HP Clear Sound Amp module is set to be powered on ([Source](https://lk
 
 # Download
 
-**[Download it here!](https://github.com/Purgenta889/easyeffects_hpzbook15g6/releases/tag/v1.0)**
+**[Download it here!](https://github.com/Purgenta889/easyeffects_hpzbook15g6/releases)**
