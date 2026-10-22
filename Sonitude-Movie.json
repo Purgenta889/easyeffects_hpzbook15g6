@@ -1,0 +1,39 @@
+{
+    "_generator": "dolby_to_easyeffects.py v2026.10-52-gaaeb8f7",
+    "output": {
+        "blocklist": [],
+        "convolver#0": {
+            "bypass": false,
+            "input-gain": 0.0,
+            "output-gain": 0.0,
+            "kernel-name": "Sonitude-Movie-82ed9fc1",
+            "ir-width": 100,
+            "autogain": false
+        },
+        "plugins_order": [
+            "convolver#0",
+            "limiter#0"
+        ],
+        "limiter#0": {
+            "bypass": false,
+            "input-gain": 0.0,
+            "output-gain": 0.0,
+            "mode": "Herm Thin",
+            "oversampling": "None",
+            "dithering": "None",
+            "sidechain-type": "Internal",
+            "lookahead": 1.0,
+            "attack": 1.0,
+            "release": 5.0,
+            "threshold": -1.0,
+            "gain-boost": false,
+            "stereo-link": 100.0,
+            "alr": true,
+            "alr-attack": 10.0,
+            "alr-release": 200.0,
+            "alr-knee": 6.0,
+            "alr-knee-smooth": -5.0,
+            "sidechain-preamp": 0.0
+        }
+    }
+}
